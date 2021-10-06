@@ -4,6 +4,7 @@ Este repositorio contiene los archivos para poder programar el encendido de un l
 El led se enciende y se apaga en un intervalo de 1 segundo.
 
 Componentes necesarios.
+
 	° LED 
 	° Protoboard
 	° Resistencia 330 ohm
